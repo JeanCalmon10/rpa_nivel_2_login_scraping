@@ -35,3 +35,8 @@ nivel_2_login_scraping/
 ├── utils/
 │   ├── output/
 │   │   └── quotes.csv       # Resultado final da automação
+
+
+## 🎬 Demonstração do Bot
+
+![Demonstração do projeto em execução](assets/demo.gif)
